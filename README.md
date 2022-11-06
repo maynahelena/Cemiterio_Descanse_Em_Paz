@@ -1,3 +1,4 @@
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 <h1 align="center"> Cemitério Descanse Em Paz</h1>
 
 <p align="center"><img align="center" src="logo cemiterio.png"></p>
@@ -8,7 +9,7 @@
 
 
 <h2 align="center">📚 Sobre</h2>
-O software Descanse em Paz é uma plataforma de gestão de cemitério, com intuito de auxiliar os funcionários nas rotinas diárias do trabalho administrativo. Desenvolvido na linguagem Java ( java ****) para sistema operacionais Windows...
+O software Descanse em Paz é uma plataforma de gestão de cemitério, com intuito de auxiliar os funcionários nas rotinas diárias do trabalho administrativo. Desenvolvido na linguagem Java ( java ****) para sistema operacional Windows...
 
 <h2 align="center">🏆 Integrantes </h2>
 <p align="center">
@@ -19,3 +20,9 @@ O software Descanse em Paz é uma plataforma de gestão de cemitério, com intui
 <p>Pedro Vinicius CP</p>
 
 <h2 align="center">C4 Model</h2>
+
+<h2 align="center">Considerações Finais</h2>
+<p align="center">
+  <img src="costume-pet.gif" width="350">
+</p>
+
