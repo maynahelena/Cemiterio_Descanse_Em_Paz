@@ -12,7 +12,7 @@ O software Descanse em Paz é uma plataforma de gestão de cemitério, com intui
 
 <h2 align="center">🏆 Integrantes </h2>
 <p align="center">
-  <img src="https://tenor.com/view/dog-smile-beanie-propeller-funny-gif-14787183" width="350">
+  <img src="dog-smile.gif" width="350">
 </p>
 <p>Luiz Lessa CP</p>
 <p>Mayna Azevedo CP3010015</p>
