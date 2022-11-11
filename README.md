@@ -19,11 +19,16 @@ O software Descanse em Paz é uma plataforma de gestão de cemitério, com intui
 <p align="center">
   <img src="dog-smile.gif" width="350">
 </p>
-<p>Luiz Lessa CP</p>
+<p>Luiz Lessa CP3011569</p>
 <p>Mayna Azevedo CP3010015</p>
-<p>Pedro Vinicius CP</p>
+<p>Pedro Vinicius CP3010007</p>
 
 <h2>C4 Model</h2>
+- Diagrama de Componente
+<p align="center">
+  <img src="Diagrama de Componente.jpg" width="950">
+</p>
+
 
 <h2>Considerações Finais</h2>
 <p align="center">
