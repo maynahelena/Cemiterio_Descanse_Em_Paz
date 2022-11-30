@@ -90,7 +90,7 @@ O software Descanse em Paz é uma plataforma de gestão de cemitério, com intui
 </p>
 
 <h2>Considerações Finais</h2>
-Gostaríamos de agradecer a todos que nos auxiliaram durante o desenvolvimento desse projeto. Feliz 2023!
+Gostaríamos de agradecer a todos que nos auxiliaram durante o desenvolvimento desse projeto. Feliz 2023!<br>
 
 <p align="center">
   <img src="costume-pet.gif" width="250">
