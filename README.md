@@ -84,9 +84,9 @@ O software Descanse em Paz é uma plataforma de gestão de cemitério, com intui
   <img src="builder.png" width="750">
 </p>
 
-- Singleton
+- Factory Method
 <p align="center">
-  <img src="singleton.PNG" width="750">
+  <img src="fabrica.PNG" width="750">
 </p>
 
 <h2>Considerações Finais</h2>
