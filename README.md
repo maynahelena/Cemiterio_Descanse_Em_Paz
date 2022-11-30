@@ -41,11 +41,36 @@ O software Descanse em Paz é uma plataforma de gestão de cemitério, com intui
 
 
 - Diagrama de Código
-<ul>
-  <li><img src="Diagrama de Componente.jpg" width="950"></li>
-  <li><img src="Diagrama de Componente.jpg" width="950"></li>
-  <li><img src="Diagrama de Componente.jpg" width="950"></li>
-</ul>
+<p align="center">
+  <img src="ScrConcessionHolderAcessController.jfif" width="650">
+</p>
+<p align="center">
+  <img src="LoginService.jpg" width="650">
+</p>
+<p align="center">
+  <img src="MenuController.jfif" width="650">
+</p>
+<p align="center">
+  <img src="LoginDao.jfif" width="650">
+</p>
+<p align="center">
+  <img src="LoginController.jfif" width="650">
+</p>
+<p align="center">
+  <img src="GraveController.jfif" width="650">
+</p>
+<p align="center">
+  <img src="ConcessionService.jfif" width="650">
+</p>
+<p align="center">
+  <img src="DeceasedService.jpg" width="650">
+</p>
+<p align="center">
+  <img src="ConcessionHolderService.jfif" width="650">
+</p>
+<p align="center">
+  <img src="ConcessionController.jfif" width="650">
+</p>
 
 <h2>Padrões de Projeto</h2>
 - Builder
