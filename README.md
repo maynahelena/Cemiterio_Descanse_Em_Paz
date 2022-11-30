@@ -42,34 +42,34 @@ O software Descanse em Paz é uma plataforma de gestão de cemitério, com intui
 
 - Diagrama de Código
 <p align="center">
-  <img src="ScrConcessionHolderAcessController.jfif" width="650">
+  <img src="ScrConcessionHolderAcessController.jfif" width="950">
 </p>
 <p align="center">
-  <img src="LoginService.jpg" width="650">
+  <img src="LoginService.jpg" width="950">
 </p>
 <p align="center">
-  <img src="MenuController.jfif" width="650">
+  <img src="MenuController.jfif" width="950">
 </p>
 <p align="center">
-  <img src="LoginDao.jfif" width="650">
+  <img src="LoginDao.jfif" width="950">
 </p>
 <p align="center">
-  <img src="LoginController.jfif" width="650">
+  <img src="LoginController.jfif" width="950">
 </p>
 <p align="center">
-  <img src="GraveController.jfif" width="650">
+  <img src="GraveController.jfif" width="950">
 </p>
 <p align="center">
-  <img src="ConcessionService.jfif" width="650">
+  <img src="ConcessionService.jfif" width="950">
 </p>
 <p align="center">
-  <img src="DeceasedService.jpg" width="650">
+  <img src="DeceasedService.jpg" width="950">
 </p>
 <p align="center">
-  <img src="ConcessionHolderService.jfif" width="650">
+  <img src="ConcessionHolderService.jfif" width="950">
 </p>
 <p align="center">
-  <img src="ConcessionController.jfif" width="650">
+  <img src="ConcessionController.jfif" width="950">
 </p>
 
 <h2>Padrões de Projeto</h2>
