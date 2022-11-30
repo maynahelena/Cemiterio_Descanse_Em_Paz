@@ -13,16 +13,17 @@
 
 
 <h2>📚 Sobre</h2>
-O software Descanse em Paz é uma plataforma de gestão de cemitério, com intuito de auxiliar os funcionários nas rotinas diárias do trabalho administrativo. Desenvolvido na linguagem Java para sistema operacional Windows, o software permite ao funcionário cadastrar e manter jazidos, funcionários, falescidos. O software contém banco de dados e validação de login e geração.<br>
+O software Descanse em Paz é uma plataforma de gestão de cemitério, com intuito de auxiliar os funcionários nas rotinas diárias do trabalho administrativo. Desenvolvido na linguagem Java para sistema operacional Windows, o software permite ao funcionário cadastrar e manter jazidos, funcionários e falecidos. O software contém banco de dados e validação de login e geração.<br>
 
+<br>
 <p align="center">
-  <img src="tela_login.PNG" width="350">
+  <img src="tela_login.PNG" width="450">
 </p>
 
 
 <h2 >🏆 Integrantes </h2>
 <p align="center">
-  <img src="dog-smile.gif" width="350">
+  <img src="dog-smile.gif" width="250">
 </p>
 <p>Luiz Lessa CP3011569</p>
 <p>Mayna Azevedo CP3010015</p>
@@ -89,7 +90,9 @@ O software Descanse em Paz é uma plataforma de gestão de cemitério, com intui
 </p>
 
 <h2>Considerações Finais</h2>
+Gostaríamos de agradecer a todos que nos auxiliaram durante o desenvolvimento desse projeto. Feliz 2023!
+
 <p align="center">
-  <img src="costume-pet.gif" width="350">
+  <img src="costume-pet.gif" width="250">
 </p>
 
